@@ -5,6 +5,15 @@ Work independently to solve each questions 1-8. Using GitHub, merge your answers
 
 Work together on question 9.
 
+Submit your answer as an .Rmd file using the following steps in GitHub:  
+
+    + Fork-clone-branch 
+    + Work independently on 1-8  
+    + One partner invites other as collaborator  
+    + Collaborator makes pull request to partner 1's repo  
+    + Merge (it's gonna be messy!)  
+    + Address question 8 
+    + Partner 1 makes pull request to instructor's HW_8 repo  
 
 ***
 For the following questions, use the Loblolly dataset that comes with Base R. Loblolly contains some data about a common garden experiment involving loblolly pine trees. Load the Loblolly dataset and answer the following questions (1-5).
